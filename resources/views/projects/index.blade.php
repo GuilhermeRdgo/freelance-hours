@@ -1,4 +1,4 @@
-<x-layouts.app>
+<x-layouts.app title="FreelanceHours | {{ __('Projects') }}">
 
     
     <a href="{{ route('projects.show', '1') }}">
